@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3029" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2802" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            408 issue comments
+                            409 issue comments
                         </div>
                     </section>
                     <section>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    1146 Releases
+                                    1147 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,13 +191,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    22899 Stargazers
+                                    22908 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    3858 Forkers
+                                    3861 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -273,13 +273,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="19.8" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="19.8" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="19.8" y="0" width="2.2" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="22" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="22" y="0" width="2.2" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="24.2" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="24.2" y="0" width="195.8" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="17.6" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="17.6" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="17.6" y="0" width="2.2" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="19.8" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="19.8" y="0" width="2.2" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="22" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="22" y="0" width="198" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -287,13 +287,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">9 <small>open</small></span>
+                                <span class="no-wrap">8 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">89 <small>merged</small></span>
+                                <span class="no-wrap">90 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -393,7 +393,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 33 commits)</small>
+                    <small class="h-details">(computed from last 35 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1454,6 +1454,318 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">subrip-encoder-fix</span>
+                                        in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 38 commits in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">musicbrainz-migration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0e1a41f</div>
+                                        <div class="message">Merge pull request #7868 from cvium/disable_dlna
+
+
+(cherry picked from commit aa0f6cb5eb7c7750cc750412fdfcb266b0a5409e)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ddf4e0</div>
+                                        <div class="message">Merge pull request #7867 from crobibero/name-guid-pair
+
+
+(cherry picked from commit 69cc1e0bd86eec085398ef237cc510c3ae8db278)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bacb41e</div>
+                                        <div class="message">Merge pull request #7854 from cvium/enable_mkv_keyframe_extraction
+
+
+(cherry picked from commit 2a89683e8019a196b087138531b3958d4f68789d)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c19c787</div>
+                                        <div class="message">Merge pull request #7828 from nyanmisaka/fix-dovi-tonemap
+
+Fix Dolby Vision profile 5 and 8 to SDR HW tone-mapping
+
+(cherry picked from commit 8595a979a872c05d0d06f9b87ed1b56c693c267d)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a9919d</div>
+                                        <div class="message">Merge pull request #7852 from nyanmisaka/fix-skia
+
+Fix the PNG image decoding issue in Skia
+
+(cherry picked from commit 4bfadbc6360559a09526facfa1cdf2676e11d4e8)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7b1132</div>
+                                        <div class="message">Merge pull request #7842 from crobibero/dependency-backport
+
+(cherry picked from commit df6c5b6d421aeac7c4c29f9eab75b92f2c3c7ce7)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb55f47</div>
+                                        <div class="message">Merge pull request #7810 from Bond-009/unaccpattern
+
+
+(cherry picked from commit 5e343d30e198ca57926a13e1a6b05ae232091d86)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a95d4b</div>
+                                        <div class="message">Merge pull request #7802 from jellyfin/external
+
+
+(cherry picked from commit 9954cbd550cc0b85ae6579e2504372f74316e7b8)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8722d0</div>
+                                        <div class="message">Merge pull request #7781 from crobibero/live-tv-infinite
+
+
+(cherry picked from commit 77c73e241fe1705528e3ffbb42f074c46240b9fb)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad1e554</div>
+                                        <div class="message">Translated using Weblate (Spanish)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/es/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf50176</div>
+                                        <div class="message">Translated using Weblate (Croatian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/hr/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d1ca41</div>
+                                        <div class="message">Bump PlaylistsNET from 1.1.3 to 1.2.1 (#7818)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c181d81</div>
+                                        <div class="message">Bump CommandLineParser from 2.8.0 to 2.9.1 (#7819)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ac0642</div>
+                                        <div class="message">Bump Moq from 4.17.2 to 4.18.1 (#7820)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d506ce</div>
+                                        <div class="message">Bump prometheus-net.DotNetRuntime from 4.2.3 to 4.2.4 (#7821)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e728d6</div>
+                                        <div class="message">Bump SQLitePCLRaw.bundle_e_sqlite3 from 2.0.7 to 2.1.0 (#7817)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#499b1df</div>
+                                        <div class="message">Translated using Weblate (Kabyle)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/kab/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e9ffd3</div>
+                                        <div class="message">Added translation using Weblate (Kabyle)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#644e774</div>
+                                        <div class="message">Fix default audio selection ignoring type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e89d1a3</div>
+                                        <div class="message">Add tests for preferred audio language selection</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f17011</div>
+                                        <div class="message">Translated using Weblate (Japanese)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/ja/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c34c9d5</div>
+                                        <div class="message">Translated using Weblate (Greek)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/el/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8af9b84</div>
+                                        <div class="message">Translated using Weblate (Chinese (Simplified))
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/zh_Hans/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bee13d5</div>
+                                        <div class="message">Fix splashscreen (#7895)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06b2e7b</div>
+                                        <div class="message">Merge pull request #7934 from Bond-009/xmlasync2
+
+Enable XmlReaderSettings.Async, fixes #7929
+
+(cherry picked from commit 1b8a2519911192fb272b15c07cc66dec6659aad9)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c5d30c</div>
+                                        <div class="message">Merge pull request #7925 from nyanmisaka/remove-mpeg4-amf
+
+
+(cherry picked from commit b295b0478c3bb8dd1b9d9ab7f15e7326c3eda2fe)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db80471</div>
+                                        <div class="message">Merge pull request #7924 from jellyfin/improve-swdec-amf-tonemap
+
+
+(cherry picked from commit 288808009813fea527c9b06c3598c49eff3eace0)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#758b166</div>
+                                        <div class="message">Merge pull request #7913 from cvium/fix_response_logging
+
+
+(cherry picked from commit 42aaea3556c3c332af1d2083547270ebce74ca31)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6a0fe3</div>
+                                        <div class="message">Merge pull request #7911 from cvium/fix_keyframe_transcode
+
+
+(cherry picked from commit 07b39655ebe2e96388ffbbecebeebb5284c26baf)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4b095a</div>
+                                        <div class="message">Merge pull request #7894 from crobibero/search-hints
+
+
+(cherry picked from commit 0f75f177361906626e658da86d63583d5111f006)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b35d608</div>
+                                        <div class="message">Merge pull request #7892 from cvium/fix_tv_multi
+
+
+(cherry picked from commit 21afec32258e29687f6c84b08d60d2d325248837)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d1dcb3</div>
+                                        <div class="message">Merge pull request #7885 from iwalton3/fix-navigation-buttons
+
+Prevent 400 error when using navigation buttons.
+
+(cherry picked from commit 8b69b0f5217e7dcda395449a56d59571b264b2a6)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6702756</div>
+                                        <div class="message">Merge pull request #7873 from cvium/fix_nfo_remoteimages
+
+
+(cherry picked from commit 1a787e273a7797f3c0275a62e1fd2805ae9c7943)
+Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dc5b69</div>
+                                        <div class="message">Translated using Weblate (Portuguese)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/pt/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a881733</div>
+                                        <div class="message">Merge pull request #7682 from 1337joe/test-preferred-audio-language</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#644e774</div>
+                                        <div class="message">Fix default audio selection ignoring type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e89d1a3</div>
+                                        <div class="message">Add tests for preferred audio language selection</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#7603 Migrate MusicBrainz plugin to MetaBrainz.MusicBrainz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Shadowghost in <span class="repo">jellyfin/jellyfin</span></div>
+                                    <div class="comment">This PR will hopefully soon be merged into master and therefore be part of 10.9.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -1463,351 +1775,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by nyanmisaka in <span class="repo">jellyfin/jellyfin</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">Shadowghost/jellyfin-ffmpeg</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">jellyfin</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2dc1f44</div>
-                                        <div class="message">Merge pull request #158 from jellyfin/amd-packedheader
-
-Try to fix amd packed header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6dfc6b</div>
-                                        <div class="message">Fix AMD VAAPI encoder packed header</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#567585c</div>
-                                        <div class="message">Merge pull request #156 from nyanmisaka/fix-ocl
-
-Fix some issues and update dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe27d9</div>
-                                        <div class="message">Merge pull request #155 from nyanmisaka/multiple-values-id3v2
-
-Add support for multiple values tags in id3v2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9d7e28</div>
-                                        <div class="message">Force reporting packed headers are supported on AMD VAAPI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b20c1d</div>
-                                        <div class="message">Add params to trace the symlink err on publishing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9921900</div>
-                                        <div class="message">Bump version to 5.0.1-6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebee519</div>
-                                        <div class="message">Update dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3dc032</div>
-                                        <div class="message">Fix using hwupload with hwmap on d3d11va</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c57231</div>
-                                        <div class="message">Fix the unsupported subscripted access on nvidia</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#992e2be</div>
-                                        <div class="message">Add support for multiple values tags in id3v2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 51 commits in
-                                        <span class="repo">Shadowghost/jellyfin-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c186557</div>
-                                        <div class="message">Merge pull request #3694 from crobibero/disable-splashscreen
-
-Add the ability to enable/disable the splashscreen
-
-(cherry picked from commit 0bd774dd45e4af30f15f1a003b23c635e02711cd)
-Signed-off-by: crobibero &lt;cody@robibe.ro&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e9cabd</div>
-                                        <div class="message">Merge pull request #3651 from grafixeyehero/Cleanup-Screenshot
-
-Remove unused Screenshot code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2a7590</div>
-                                        <div class="message">Translated using Weblate (Dutch)
-Translation: Jellyfin/Jellyfin Web
-Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/nl/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b217e39</div>
-                                        <div class="message">Remove unused Screenshot code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6534c0a</div>
-                                        <div class="message">Merge pull request #3615 from grafixeyehero/ItemsByName-&amp;-PlaylistViewer
-
-use import instead of global for ItemsByName &amp; PlaylistViewer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bca185e</div>
-                                        <div class="message">apply suggestions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee495cd</div>
-                                        <div class="message">Remove unused parameter "page"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cdbaa9</div>
-                                        <div class="message">Rename itembynamedetailpage to itemsByName</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac62a5e</div>
-                                        <div class="message">use import for ItemsByName &amp; PlaylistViewer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d3365b</div>
-                                        <div class="message">Merge pull request #3688 from thornbill/no-hash-bang
-
-Remove hash bang paths</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05862bd</div>
-                                        <div class="message">Merge pull request #3631 from dannymichel/sort-random-master
-
-Add random sorting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49974f1</div>
-                                        <div class="message">Translated using Weblate (Russian)
-Translation: Jellyfin/Jellyfin Web
-Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/ru/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#499da41</div>
-                                        <div class="message">Translated using Weblate (Dutch)
-Translation: Jellyfin/Jellyfin Web
-Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/nl/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f8efca</div>
-                                        <div class="message">Translated using Weblate (Portuguese)
-Translation: Jellyfin/Jellyfin Web
-Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-web/pt/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90b1b45</div>
-                                        <div class="message">Remove hash bang paths</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#465e883</div>
-                                        <div class="message">Update CI dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c31e484</div>
-                                        <div class="message">Bump async from 2.6.3 to 2.6.4
-
-Bumps [async](https://github.com/caolan/async) from 2.6.3 to 2.6.4.
-- [Release notes](https://github.com/caolan/async/releases)
-- [Changelog](https://github.com/caolan/async/blob/v2.6.4/CHANGELOG.md)
-- [Commits](https://github.com/caolan/async/compare/v2.6.3...v2.6.4)
-
----
-updated-dependencies:
-- dependency-name: async
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4157ad</div>
-                                        <div class="message">Requested change
-
-Requested change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a2e2af</div>
-                                        <div class="message">Requested changes
-
-Requested changes https://github.com/jellyfin/jellyfin-web/pull/3631#discussion_r871799701 https://github.com/jellyfin/jellyfin-web/pull/3631#discussion_r871800253 https://github.com/jellyfin/jellyfin-web/pull/3631#discussion_r871800701</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#178cef0</div>
-                                        <div class="message">Add random sorting
-
-Added random sorting to tv shows and movies lists</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Shadowghost/jellyfin-vue</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fefa9f0</div>
-                                        <div class="message">chore(i18n): translate terms (Chinese (Simplified))
-
-Currently translated at 100.0% (396 of 396 strings)
-
-Translation: Jellyfin Vue/Jellyfin Vue
-Translate-URL: https://translate.jellyfin.org/projects/jellyfin-vue/jellyfin-vue/zh_Hans/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4edc011</div>
-                                        <div class="message">chore(deps): update actions/dependency-review-action action to v2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">Shadowghost/jellyfin-docs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cb84579</div>
-                                        <div class="message">Merge pull request #677 from funkybunch/funkybunch/hotio-dockerfile-link-fix
-
-Fix broken hotio Dockerfile Link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f14050f</div>
-                                        <div class="message">Fix broken hotio Dockerfile Link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f727c1</div>
-                                        <div class="message">Merge pull request #676 from jellyfin/nielsvanvelzen-patch-1
-
-Fix formatting in plugins/index.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abcba43</div>
-                                        <div class="message">Fix formatting in plugins/index.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df75aef</div>
-                                        <div class="message">Merge pull request #675 from Andy2244/ani-sync
-
-add Ani-Sync plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4c1e7a</div>
-                                        <div class="message">add Ani-Sync plugin
-
-* add Ani-Sync plugin + repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ceb0e</div>
-                                        <div class="message">Merge pull request #674 from thornbill/add-new-faq-items
-
-Add more items to the FAQ list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#379958e</div>
-                                        <div class="message">Add more items to the faq list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dc3408</div>
-                                        <div class="message">Merge pull request #671 from maauer/patch-3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#596b317</div>
-                                        <div class="message">Fix ffmpeg documentation link
-
-Change link target from https://jellyfin.org/docs/general/administration/(https://trac.ffmpeg.org/wiki/HWAccelIntro) to https://trac.ffmpeg.org/wiki/HWAccelIntro</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ef2392</div>
-                                        <div class="message">Merge pull request #669 from thornbill/video-codecs
-
-Update supported video formats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28197ab</div>
-                                        <div class="message">Update supported video formats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d986cb8</div>
-                                        <div class="message">Merge pull request #668 from thornbill/audio-codecs
-
-Update supported audio formats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d5d876</div>
-                                        <div class="message">Update supported audio formats</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7757f6e</div>
-                                        <div class="message">Merge pull request #640 from Shadowghost/remove-omx-hwa
-
-Remove OMX docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12bbdc9</div>
-                                        <div class="message">Merge pull request #632 from SenorSmartyPants/patch-1
-
-Add link to Popcorn Hour A-100/A-110 client</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e155d6c</div>
-                                        <div class="message">Remove OMX docs, add note about rpi hwa, reformat some things
-
-Co-authored-by: Tim Gels &lt;43609220+TimGels@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e025bdf</div>
-                                        <div class="message">Fix lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cab191</div>
-                                        <div class="message">Add link to Popcorn Hour A-100 /A-110 client</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1865,7 +1832,7 @@ Co-authored-by: Tim Gels &lt;43609220+TimGels@users.noreply.github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.71333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.81666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1887,7 +1854,7 @@ Co-authored-by: Tim Gels &lt;43609220+TimGels@users.noreply.github.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1694 times</div>
+                                <div class="text">Repositories have been deployed 1695 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2462,7 +2429,7 @@ Co-authored-by: Tim Gels &lt;43609220+TimGels@users.noreply.github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 14:24:13 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 20:14:29 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
