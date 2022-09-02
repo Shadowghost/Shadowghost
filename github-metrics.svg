@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2581" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2304" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            470 issue comments
+                            474 issue comments
                         </div>
                     </section>
                     <section>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    1185 Releases
+                                    1187 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    52.5k added, 9.65k removed
+                                    44.5k added, 4.20k removed
                                 </div>
                             </section>
                             <section>
@@ -191,19 +191,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    24684 Stargazers
+                                    24691 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    4091 Forkers
+                                    4090 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    1233 Watchers
+                                    1232 Watchers
                                 </div>
                             </section>
                         </div>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.59495887166497" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="281.59495887166497" y="0" width="72.02790134542103" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="353.62286021708604" y="0" width="39.710353731852415" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.33321394893846" y="0" width="19.802566361747413" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="413.1357803106859" y="0" width="16.36104446509801" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.49682477578386" y="0" width="12.493515485563561" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="441.99034026134746" y="0" width="11.506525035267197" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="453.49686529661466" y="0" width="6.503134703385361" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.5995325446523" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="281.5995325446523" y="0" width="72.02579531620016" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="353.6253278608524" y="0" width="39.7098353632539" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.3351632241063" y="0" width="19.80198735302125" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="413.13715057712756" y="0" width="16.360566083289243" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.49771666041676" y="0" width="12.493150186725295" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="441.99086684714206" y="0" width="11.50618859511689" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="453.4970554422589" y="0" width="6.502944557741009" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1431,15 +1431,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#182 New upstream version 5.1.1</span>
+                                        Commented on
+                                        <span class="issue">#23 Matching episodes by SxE and not TVDBid </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by nyanmisaka in <span class="repo">jellyfin/jellyfin-ffmpeg</span></div>
+                                    <div>opened by SenorSmartyPants in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
+                                    <div class="comment">Your PR should be fine since we match on IDs (and I do like that). Matching on season and episode number is unreliable because they can be so extremly different between metadata services and if you don't adher to tmdb by default you get messed up playback tracking on trakt. Especially special naming and sorting is totally unreliable by number.</div>
                                 </div>
                             </section>
                         </div>
@@ -1451,12 +1452,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#45 Sync library to trakt.tv failed</span>
+                                        <span class="issue">#23 Matching episodes by SxE and not TVDBid </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by MateEke in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
-                                    <div class="comment">Indeed. But that should normally never happen...</div>
+                                    <div>opened by SenorSmartyPants in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
+                                    <div class="comment">I'm really tempted to drop the fallback to syncing by season and episode number (this would achieve what you request) because it's so damn unreliable.</div>
                                 </div>
                             </section>
                         </div>
@@ -1468,15 +1469,15 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#164 Sync library to trakt.tv failed &gt;&gt; error 423 (locked)</span>
+                                        <span class="issue">#151 "Export library to trakt.tv" task resets watched status of movies locally</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Al4ndil in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
+                                    <div>opened by blackwind in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
                                     <div class="comment">
-                                        According to trakt docs:
-                                        <code>423 - Locked User Account (have the user contact support)</code>
-                                        Seems like your user account got locked and nedes to be unlocked by support - nothing we can do about that.
+                                        Did you try deleting
+                                        <code>/var/lib/jellyfin/plugins/configuration/Trakt.xml</code>
+                                        , restarting Jellyfin and reauthing your user?
                                     </div>
                                 </div>
                             </section>
@@ -1485,151 +1486,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 40 commits in
-                                        <span class="repo">Shadowghost/jellyfin</span>
+                                        Closed
+                                        <span class="issue">#155 Purpose of "Export media info" is unclear</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61afd02</div>
-                                        <div class="message">Check for empty guid</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f91244</div>
-                                        <div class="message">Use Guid for adjacentTo API parameter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7391b00</div>
-                                        <div class="message">increased subtitle extraction timeout to 30 min</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7edf8b</div>
-                                        <div class="message">Backport pull request #8257 from jellyfin/release-10.8.z
-
-Use separate args for dotnet publish commands
-
-Original-merge: d260f308106db648014a0bb3fd1911c838f899ce
-
-Merged-by: Joshua M. Boniface &lt;joshua@boniface.me&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#010228b</div>
-                                        <div class="message">Backport pull request #8234 from jellyfin/release-10.8.z
-
-update to dotnet 6.0.8
-
-Original-merge: 31f9938e3a1cdb5bac732b393c252c3ebc4689ec
-
-Merged-by: Joshua M. Boniface &lt;joshua@boniface.me&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56805b3</div>
-                                        <div class="message">Backport pull request #8219 from jellyfin/release-10.8.z
-
-Move Fedora service hardening options to override config
-
-Original-merge: 1d4755894eaf5293e1d67dbca5e5c90566963572
-
-Merged-by: Joshua M. Boniface &lt;joshua@boniface.me&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de9a350</div>
-                                        <div class="message">Backport pull request #8212 from jellyfin/release-10.8.z
-
-Add resolution text for 384 sized video
-
-Original-merge: 7ffdde9a0b88f543a84fa8a3fa7487cbe8dda8b4
-
-Merged-by: Cody Robibero &lt;cody@robibe.ro&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b05e0a</div>
-                                        <div class="message">Backport pull request #8209 from jellyfin/release-10.8.z
-
-Fix series query including missing episodes when it should not
-
-Original-merge: 9357d610b13e2d9a759d69ed80dd71108af1e602
-
-Merged-by: Claus Vium &lt;cvium@users.noreply.github.com&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e5cf93</div>
-                                        <div class="message">Backport pull request #8182 from jellyfin/release-10.8.z
-
-Extract external subs from container before determining characterset
-
-Original-merge: 1faee43b1103428392d305cb0d1b46ff3ab6b5fc
-
-Merged-by: Bond-009 &lt;bond.009@outlook.com&gt;
-
-Backported-by: Joshua Boniface &lt;joshua@boniface.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c69b2c8</div>
-                                        <div class="message">add comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e52f1b5</div>
-                                        <div class="message">Merge branch 'master' into api-key-items-without-user-id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d83b1c0</div>
-                                        <div class="message">chore: add utkuozdemir to contributors.md
-
-Signed-off-by: Utku Ozdemir &lt;uoz@protonmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ec42f8</div>
-                                        <div class="message">fix: single video folder during photos lib scan
-
-Prevent a directory with a single video file to be detected as a movie directory when the library type is "Photos". Closes jellyfin/jellyfin#7825
-
-Signed-off-by: Utku Ozdemir &lt;uoz@protonmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc74c8e</div>
-                                        <div class="message">tweak guid check
-
-Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d06fda4</div>
-                                        <div class="message">use null-forgiving operator to suppress warnings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82df4c3</div>
-                                        <div class="message">update comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4088ba</div>
-                                        <div class="message">don't require a user id for items api call using api key</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b4e149</div>
-                                        <div class="message">Fix format string</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#181b276</div>
-                                        <div class="message">Revert UPnP version to 1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cafeedc</div>
-                                        <div class="message">Rework SsdpHttpClient</div>
-                                    </div>
+                                    <div>opened by Avamander in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1641,16 +1507,13 @@ Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#2 Unable to configure Flood settings</span>
+                                        <span class="issue">#162 Duplicate plays bug auto remove</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by WaffleThief123 in <span class="repo">Shadowghost/rtorrent-flood-wireguard-docker</span></div>
-                                    <div class="comment">
-                                        That's the default set in
-                                        <code>/home/torrent/.rtorrent.rc</code>
-                                        . If you don't mount a local config at that location on recreation the changes are lost.
-                                    </div>
+                                    <div>opened by Dnkhatri in <span class="repo">jellyfin/jellyfin-plugin-trakt</span></div>
+                                    <div class="comment">AFAIK this only happens if the playcount within Jellyfin is higher than the one in trakt. The plugin will then add the amount of plays at the most recent plays to match the playcount. Since Jellyfin only keeps the date and time of the most recent play we can't add the other plays at different dates.
+This currently is intended behaviour but it could be argued that we should just not sync the playcount.</div>
                                 </div>
                             </section>
                         </div>
@@ -1708,7 +1571,7 @@ Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.19333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.29666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1730,7 +1593,7 @@ Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2018 times</div>
+                                <div class="text">Repositories have been deployed 2019 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2042,7 +1905,7 @@ Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 201k out of 336m repositories</span>
+                                    <span class="gh">ranked 202k out of 336m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 149 stars</div>
                             </div>
@@ -2305,7 +2168,7 @@ Co-authored-by: Bond-009 &lt;bond.009@outlook.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Sept 2022, 14:26:50 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 20:17:30 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
