@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.40k added, 1.65k removed
+                                    21.7k added, 2.07k removed
                                 </div>
                             </section>
                             <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    25354 Stargazers
+                                    25362 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.48960944306106" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="281.48960944306106" y="0" width="72.04620086099392" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="353.535810304055" y="0" width="39.744707364456715" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="393.2805176685117" y="0" width="19.794257596342167" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="413.0747752648539" y="0" width="16.33691319127759" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.4116884561315" y="0" width="12.542042902633376" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="441.95373135876486" y="0" width="11.545862524622969" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="453.49959388338783" y="0" width="6.500406116612208" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4890486244623" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="281.4890486244623" y="0" width="72.04605732159476" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="353.53510594605706" y="0" width="39.74456676722496" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="393.279672713282" y="0" width="19.794218159761076" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="413.0738908730431" y="0" width="16.337858524925785" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="429.4117493979689" y="0" width="12.542017914816098" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="441.953767312785" y="0" width="11.5458395215201" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="453.4996068343051" y="0" width="6.500393165694919" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1600,7 +1600,7 @@ Photos do work in a usable extent as of now but a proper directory view would ma
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="118.73 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="119.24666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1622,7 +1622,7 @@ Photos do work in a usable extent as of now but a proper directory view would ma
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2149 times</div>
+                                <div class="text">Repositories have been deployed 2154 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2197,7 +2197,7 @@ Photos do work in a usable extent as of now but a proper directory view would ma
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2022, 03:15:31 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Sept 2022, 08:44:40 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
