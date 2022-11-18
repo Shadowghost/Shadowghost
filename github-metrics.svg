@@ -2230,7 +2230,7 @@ output, but still show error messages if something goes wrong.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2022, 07:16:09 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Nov 2022, 13:23:18 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
