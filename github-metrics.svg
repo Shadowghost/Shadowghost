@@ -1759,7 +1759,7 @@ The iGPU of Skylake CPUs does not support HEVC 10bit, see QSV compatibility tabl
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 178k out of 371m repositories</span>
+                                    <span class="gh">ranked 178k out of 372m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 186 stars</div>
                             </div>
@@ -2057,7 +2057,7 @@ The iGPU of Skylake CPUs does not support HEVC 10bit, see QSV compatibility tabl
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jan 2023, 07:14:49 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Jan 2023, 13:21:52 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
