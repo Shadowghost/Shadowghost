@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2053" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3019" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -273,13 +273,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="11.81208053691275" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="11.81208053691275" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="11.81208053691275" y="0" width="2.9530201342281877" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="14.765100671140939" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="14.765100671140939" y="0" width="4.429530201342281" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="19.19463087248322" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="19.19463087248322" y="0" width="200.80536912751677" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="10.266666666666667" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="10.266666666666667" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="10.266666666666667" y="0" width="2.9333333333333336" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="13.200000000000001" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="13.200000000000001" y="0" width="5.866666666666667" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="19.06666666666667" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="19.06666666666667" y="0" width="200.93333333333334" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -287,13 +287,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">8 <small>open</small></span>
+                                <span class="no-wrap">7 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">136 <small>merged</small></span>
+                                <span class="no-wrap">137 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -306,7 +306,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">3 <small>closed</small></span>
+                                <span class="no-wrap">4 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -331,14 +331,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 66 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 43.5 characters per line of code written</li>
+                        <li>Has approximately 43.6 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
-                        <li>Mostly active on Saturday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1392,91 +1392,365 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#9361 Various fixes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">jellyfin/jellyfin</span></div>
+                                    <div>8 files changed <span class="code">++36 --21</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 37 commits in
                                         <span class="repo">Shadowghost/jellyfin</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">musibrainz-fix</span></div>
+                                    <div>on branch <span class="code">network-rewrite</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9911638</div>
+                                        <div class="message">chore(deps): update dependency prometheus-net.aspnetcore to v8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#336e08d</div>
+                                        <div class="message">Merge pull request #9337 from Bond-009/regex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80939b9</div>
+                                        <div class="message">Translated using Weblate (Spanish (Argentina))
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/es_AR/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a527034</div>
+                                        <div class="message">Validate requested user id (#8812)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40a1e19</div>
+                                        <div class="message">Add rule and tests to fix #9341
+
+Add an additional EpisodeExpression that matches
+`Series title Season 3 Episode 9 - Episode title.avi` correctly.
+Fixes #9341</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9979b34</div>
+                                        <div class="message">Merge pull request #9340 from Bond-009/using</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3bec703</div>
+                                        <div class="message">Fix use after dispose</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4826307</div>
+                                        <div class="message">Reduce string allocations by regex</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5071973</div>
+                                        <div class="message">chore(deps): update dependency prometheus-net to v8 (#9333)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df8346c</div>
+                                        <div class="message">Merge pull request #9061 from Bond-009/ct</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b8fda1</div>
+                                        <div class="message">Merge pull request #9319 from Bond-009/alternate</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a38cb3a</div>
+                                        <div class="message">Fix tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60f41b8</div>
+                                        <div class="message">Verify ContentType of uploaded images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65f6c2e</div>
+                                        <div class="message">Translated using Weblate (Indonesian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/id/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb31a9</div>
+                                        <div class="message">Translated using Weblate (Slovenian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/sl/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13589ce</div>
+                                        <div class="message">Translated using Weblate (Russian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/ru/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#785e8c4</div>
+                                        <div class="message">Translated using Weblate (Dutch)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/nl/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb85fc6</div>
+                                        <div class="message">Enable nullable for more files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59920b4</div>
+                                        <div class="message">Make exact match primary video</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#724d298</div>
+                                        <div class="message">Change transcoderChannelLimit default to 8
+
+Change transcoderChannelLimit default to 8 from 6
+Switch to querying for encoder and added more cases to transcoderChannelLimit
+Refactor GetNumAudioChannelsParam</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 62 commits in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rating-overhaul</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb31a9</div>
+                                        <div class="message">Translated using Weblate (Slovenian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/sl/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13589ce</div>
+                                        <div class="message">Translated using Weblate (Russian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/ru/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#785e8c4</div>
+                                        <div class="message">Translated using Weblate (Dutch)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/nl/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb85fc6</div>
+                                        <div class="message">Enable nullable for more files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fe64f6</div>
+                                        <div class="message">Merge pull request #9320 from MBR-0001/master
+
+Fix NRE in DisposeAsyncCore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c338aa7</div>
+                                        <div class="message">Fix NRE in DisposeAsyncCore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59920b4</div>
+                                        <div class="message">Make exact match primary video</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87b2bc5</div>
+                                        <div class="message">Fix LocalAccessOrRequiresElevationHandler (#9315)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c0201e</div>
+                                        <div class="message">chore(deps): update dotnet monorepo (#9311)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92db437</div>
+                                        <div class="message">Merge pull request #9160 from Shadowghost/policy-cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92f6e19</div>
+                                        <div class="message">Enable nullable for more files (#9310)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36b7157</div>
+                                        <div class="message">Fix #9300 (#9312)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8ed1f8</div>
+                                        <div class="message">Add back LocalAccessOrRequiresElevationPolicy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeb0f7a</div>
+                                        <div class="message">Add permissions for LiveTV access and management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48c6461</div>
+                                        <div class="message">Merge pull request #8887 from Shadowghost/collections-permissions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#228fa2f</div>
+                                        <div class="message">Merge pull request #9306 from 1337joe/fix-locked-item-metadata-updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7418d6</div>
+                                        <div class="message">Add permission for collection management</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ce3098</div>
+                                        <div class="message">Make update type for RunTimeTicks consistent with other file attributes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d2b0a5</div>
+                                        <div class="message">Add missing checks for item locked state in metadata updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#724d298</div>
+                                        <div class="message">Change transcoderChannelLimit default to 8
+
+Change transcoderChannelLimit default to 8 from 6
+Switch to querying for encoder and added more cases to transcoderChannelLimit
+Refactor GetNumAudioChannelsParam</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rating-overhaul</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d86faa2</div>
+                                        <div class="message">Build ratingClause with StringBuilder</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a284d14</div>
+                                        <div class="message">Move MigrateRatingLevels migration to preStartup</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">Shadowghost/jellyfin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#720852f</div>
+                                        <div class="message">Merge pull request #9356 from Bond-009/tryparse</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69379d8</div>
+                                        <div class="message">Merge pull request #9266 from holow29/increase-transcoding-ac-max</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b119c6d</div>
+                                        <div class="message">StringComparison.Ordinal instead of StringComparison.OrdinalIgnoreCase</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26297d2</div>
+                                        <div class="message">Merge pull request #9352 from Shadowghost/musibrainz-fix</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#a9bfb13</div>
                                         <div class="message">Format MusicBrainz config page</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Shadowghost/jellyfin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">musibrainz-fix</span></div>
                                     <div class="commit">
                                         <div class="sha">#815aa40</div>
                                         <div class="message">Fix MusicBrainz config page input validation</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#9356 Optimize tryparse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Bond-009 in <span class="repo">jellyfin/jellyfin</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Shadowghost/jellyfin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">musibrainz-fix</span></div>
                                     <div class="commit">
                                         <div class="sha">#3c921e2</div>
                                         <div class="message">Fix MusicBrainz album queries and releasegroup handling</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#9266 Change transcoderChannelLimit default to 8</span>
+                                    <div class="commit">
+                                        <div class="sha">#24a7e21</div>
+                                        <div class="message">Optimize tryparse
+
+* Don't check for null before
+* Don't try different formats when not needed (NumberFormat.Integer is the fast path)</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by holow29 in <span class="repo">jellyfin/jellyfin</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4baa534</div>
+                                        <div class="message">Fix MusicBrainz configuration parsing and update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb6f867</div>
+                                        <div class="message">Merge pull request #9322 from Bond-009/nullable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de96fe1</div>
+                                        <div class="message">Translated using Weblate (Russian)
+Translation: Jellyfin/Jellyfin
+Translate-URL: https://translate.jellyfin.org/projects/jellyfin/jellyfin-core/ru/</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd3e74c</div>
+                                        <div class="message">Merge pull request #9343 from Lenart12/master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f4e43b</div>
+                                        <div class="message">Add migration for MusicBrainz settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6eb35d4</div>
+                                        <div class="message">Merge pull request #9349 from Shadowghost/musibrainz-fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c5b0e0</div>
+                                        <div class="message">Fix MusicBrainz default server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40a1e19</div>
+                                        <div class="message">Add rule and tests to fix #9341
+
+Add an additional EpisodeExpression that matches
+`Series title Season 3 Episode 9 - Episode title.avi` correctly.
+Fixes #9341</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb85fc6</div>
+                                        <div class="message">Enable nullable for more files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#724d298</div>
+                                        <div class="message">Change transcoderChannelLimit default to 8
+
+Change transcoderChannelLimit default to 8 from 6
+Switch to querying for encoder and added more cases to transcoderChannelLimit
+Refactor GetNumAudioChannelsParam</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1676,7 +1950,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.50m out of 108m users</span>
+                                    <span class="gh">ranked 1.50m out of 109m users</span>
                                 </div>
                                 <div class="text">Published 27 public repositories</div>
                             </div>
@@ -1691,7 +1965,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.27638190954774 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.05527638190955 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1719,7 +1993,7 @@
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 149 pull requests</div>
+                                <div class="text">Opened 150 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1839,7 +2113,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.23m out of 108m users</span>
+                                    <span class="gh">ranked 1.23m out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 9 users</div>
                             </div>
@@ -2053,7 +2327,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2023, 07:15:49 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 13:21:40 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
