@@ -2033,7 +2033,7 @@ Since this will not be backported to 10.8 you'll need to wait for 10.9 to have p
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2023, 08:14:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Apr 2023, 14:18:51 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
