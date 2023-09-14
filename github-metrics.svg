@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1411,6 +1411,22 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
+                                        <span class="issue">#10219 Ignore .zfs folder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Bond-009 in <span class="repo">jellyfin/jellyfin</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
                                         <span class="issue">#10220 chore(deps): update github/codeql-action action to v2.21.6</span>
                                     </div>
                                 </div>
@@ -1467,22 +1483,6 @@
                                     <div>opened by sic6SaNdMaN in <span class="repo">jellyfin/jellyfin</span></div>
                                     <div class="comment">I looked at deferring this to when media is deleted but all playlists would need to be checked on each media deletion. Depending on how many entities are removed this introduces a lot of overhead.
 Could be temporarily fixed by introducing a scheduled job cleaning up playlists as proposed for collections - or do both in one job.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#10213 chore(deps): update dotnet monorepo to v7.0.11</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">jellyfin/jellyfin</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1577,7 +1577,7 @@ Could be temporarily fixed by introducing a scheduled job cleaning up playlists 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.97 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.279999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1605,7 +1605,7 @@ Could be temporarily fixed by introducing a scheduled job cleaning up playlists 
                                     <span class="prefix">Super</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 587 pull requests</div>
+                                <div class="text">Reviewed 588 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1761,7 +1761,7 @@ Could be temporarily fixed by introducing a scheduled job cleaning up playlists 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 139k out of 56.7m repositories</span>
+                                    <span class="gh">ranked 139k out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 279 stars</div>
                             </div>
@@ -2094,7 +2094,7 @@ Could be temporarily fixed by introducing a scheduled job cleaning up playlists 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2023, 08:13:58 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 14:19:38 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
