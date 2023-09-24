@@ -1841,7 +1841,7 @@ Useful if e.g. ffmpeg changes or there's some big upstream change</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 139k out of 65.4m repositories</span>
+                                    <span class="gh">ranked 139k out of 64.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 281 stars</div>
                             </div>
@@ -2174,7 +2174,7 @@ Useful if e.g. ffmpeg changes or there's some big upstream change</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2023, 08:12:38 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2023, 14:17:03 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
