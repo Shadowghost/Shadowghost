@@ -1652,7 +1652,7 @@ Since I cannot test the changes someone else would need to chime in before we me
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.61m out of 121m users</span>
+                                    <span class="gh">ranked 2.62m out of 121m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1731,7 +1731,7 @@ Since I cannot test the changes someone else would need to chime in before we me
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 138k out of 65.4m repositories</span>
+                                    <span class="gh">ranked 138k out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 285 stars</div>
                             </div>
@@ -2064,7 +2064,7 @@ Since I cannot test the changes someone else would need to chime in before we me
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Oct 2023, 02:44:30 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2023, 08:14:26 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
