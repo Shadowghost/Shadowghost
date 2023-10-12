@@ -1689,7 +1689,7 @@ Update shogo82148/actions-upload-release-asset action to v1.7.0</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.62m out of 121m users</span>
+                                    <span class="gh">ranked 2.62m out of 120m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1768,7 +1768,7 @@ Update shogo82148/actions-upload-release-asset action to v1.7.0</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 137k out of 57.9m repositories</span>
+                                    <span class="gh">ranked 137k out of 50.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 287 stars</div>
                             </div>
@@ -1920,7 +1920,7 @@ Update shogo82148/actions-upload-release-asset action to v1.7.0</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.08m out of 121m users</span>
+                                    <span class="gh">ranked 1.09m out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -2101,7 +2101,7 @@ Update shogo82148/actions-upload-release-asset action to v1.7.0</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Oct 2023, 02:42:42 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2023, 08:14:42 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
