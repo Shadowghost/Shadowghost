@@ -1763,7 +1763,7 @@ This clarification could be useful to novice linux users.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 185m repositories</span>
+                                    <span class="gh">ranked 136k out of 129m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 292 stars</div>
                             </div>
@@ -2096,7 +2096,7 @@ This clarification could be useful to novice linux users.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2023, 14:19:20 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2023, 20:13:48 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
