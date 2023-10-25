@@ -1689,7 +1689,7 @@ This clarification could be useful to novice linux users.</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.64m out of 124m users</span>
+                                    <span class="gh">ranked 2.65m out of 124m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1768,7 +1768,7 @@ This clarification could be useful to novice linux users.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 123m repositories</span>
+                                    <span class="gh">ranked 136k out of 126m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 292 stars</div>
                             </div>
@@ -2101,7 +2101,7 @@ This clarification could be useful to novice linux users.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2023, 14:19:05 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 20:13:30 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
