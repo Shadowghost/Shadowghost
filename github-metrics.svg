@@ -1758,7 +1758,7 @@ Add Feishin to the list of client applications</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 135k out of 78.6m repositories</span>
+                                    <span class="gh">ranked 135k out of 92.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 294 stars</div>
                             </div>
@@ -2091,7 +2091,7 @@ Add Feishin to the list of client applications</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Oct 2023, 13:19:50 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 19:13:55 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
