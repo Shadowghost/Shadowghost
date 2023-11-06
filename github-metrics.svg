@@ -1740,7 +1740,7 @@ General sidenote: this is a quite outdated, low power CPU so don't expect any mi
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 113m repositories</span>
+                                    <span class="gh">ranked 134k out of 100m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 298 stars</div>
                             </div>
@@ -2073,7 +2073,7 @@ General sidenote: this is a quite outdated, low power CPU so don't expect any mi
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2023, 01:45:48 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Nov 2023, 07:14:33 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
