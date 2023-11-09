@@ -1774,7 +1774,7 @@ Feature requests should be filed on out Fider instance.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 132k out of 62.2m repositories</span>
+                                    <span class="gh">ranked 132k out of 58.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 303 stars</div>
                             </div>
@@ -2107,7 +2107,7 @@ Feature requests should be filed on out Fider instance.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 01:44:54 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 07:14:05 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
