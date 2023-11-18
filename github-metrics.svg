@@ -1825,7 +1825,7 @@ Fix the link to the Jellyfin Project</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 130k out of 63.3m repositories</span>
+                                    <span class="gh">ranked 130k out of 71.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 311 stars</div>
                             </div>
@@ -2158,7 +2158,7 @@ Fix the link to the Jellyfin Project</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2023, 01:45:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 07:13:00 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
