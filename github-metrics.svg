@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1636,7 +1636,7 @@ Fix the link to the Jellyfin Project</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.97 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.89999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1664,7 +1664,7 @@ Fix the link to the Jellyfin Project</div>
                                     <span class="prefix">Super</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 787 pull requests</div>
+                                <div class="text">Reviewed 790 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1853,7 +1853,7 @@ Fix the link to the Jellyfin Project</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 128k out of 49.5m repositories</span>
+                                    <span class="gh">ranked 128k out of 61.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 315 stars</div>
                             </div>
@@ -2186,7 +2186,7 @@ Fix the link to the Jellyfin Project</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2023, 13:20:10 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2023, 19:14:36 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
