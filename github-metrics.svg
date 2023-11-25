@@ -1719,7 +1719,7 @@ Fix typo in intel.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.71871871871872 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.873873873873876 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1742,9 +1742,9 @@ Fix typo in intel.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 128k out of 67.6m repositories</span>
+                                    <span class="gh">ranked 128k out of 71.9m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 315 stars</div>
+                                <div class="text">Maintaining a repository with 316 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2075,7 +2075,7 @@ Fix typo in intel.md</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2023, 01:44:20 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 07:12:45 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
