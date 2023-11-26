@@ -1833,7 +1833,7 @@ Fix typo in intel.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 128k out of 72.4m repositories</span>
+                                    <span class="gh">ranked 128k out of 61.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 316 stars</div>
                             </div>
@@ -2166,7 +2166,7 @@ Fix typo in intel.md</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2023, 01:50:34 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 07:13:18 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
