@@ -1832,7 +1832,7 @@ Fix action building</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 128k out of 65m repositories</span>
+                                    <span class="gh">ranked 128k out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 316 stars</div>
                             </div>
@@ -2165,7 +2165,7 @@ Fix action building</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Nov 2023, 01:47:24 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 07:14:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
