@@ -1759,7 +1759,7 @@ Move redirects to separate file</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 127k out of 58.7m repositories</span>
+                                    <span class="gh">ranked 127k out of 59.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 318 stars</div>
                             </div>
@@ -2092,7 +2092,7 @@ Move redirects to separate file</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2023, 01:47:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 07:14:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
