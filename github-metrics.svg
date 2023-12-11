@@ -1669,7 +1669,7 @@ Update xunit-dotnet monorepo</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.53m out of 125m users</span>
+                                    <span class="gh">ranked 2.53m out of 126m users</span>
                                 </div>
                                 <div class="text">Published 21 public repositories</div>
                             </div>
@@ -1725,7 +1725,7 @@ Update xunit-dotnet monorepo</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.270270270270274 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.42542542542542 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1748,9 +1748,9 @@ Update xunit-dotnet monorepo</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 126k out of 58.1m repositories</span>
+                                    <span class="gh">ranked 125k out of 64.6m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 325 stars</div>
+                                <div class="text">Maintaining a repository with 326 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1900,7 +1900,7 @@ Update xunit-dotnet monorepo</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 953k out of 125m users</span>
+                                    <span class="gh">ranked 953k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2081,7 +2081,7 @@ Update xunit-dotnet monorepo</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Dec 2023, 01:48:21 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2023, 07:14:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
