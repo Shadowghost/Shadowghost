@@ -1753,7 +1753,7 @@ Update xunit-dotnet monorepo</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 125k out of 68.8m repositories</span>
+                                    <span class="gh">ranked 125k out of 58.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 327 stars</div>
                             </div>
@@ -2086,7 +2086,7 @@ Update xunit-dotnet monorepo</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2023, 01:48:05 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 07:14:44 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
