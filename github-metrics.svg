@@ -1754,7 +1754,7 @@ Fix: link from shows to movies#3d-movies</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 124k out of 62.5m repositories</span>
+                                    <span class="gh">ranked 124k out of 66.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 331 stars</div>
                             </div>
@@ -2087,7 +2087,7 @@ Fix: link from shows to movies#3d-movies</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Dec 2023, 01:47:18 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2023, 07:14:42 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
