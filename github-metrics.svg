@@ -1753,7 +1753,7 @@ Fix: link from shows to movies#3d-movies</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 124k out of 72.1m repositories</span>
+                                    <span class="gh">ranked 124k out of 58.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 331 stars</div>
                             </div>
@@ -1873,7 +1873,7 @@ Fix: link from shows to movies#3d-movies</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 957k out of 127m users</span>
+                                    <span class="gh">ranked 958k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2086,7 +2086,7 @@ Fix: link from shows to movies#3d-movies</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Dec 2023, 01:44:51 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 07:13:56 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
