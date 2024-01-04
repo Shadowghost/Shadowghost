@@ -1770,7 +1770,7 @@ Update dependency Microsoft.SourceLink.GitHub to v8</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 123k out of 75.6m repositories</span>
+                                    <span class="gh">ranked 123k out of 66.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 336 stars</div>
                             </div>
@@ -2103,7 +2103,7 @@ Update dependency Microsoft.SourceLink.GitHub to v8</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 01:47:13 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 07:14:41 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
