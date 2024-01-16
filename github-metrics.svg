@@ -1758,7 +1758,7 @@ Update dependency xunit to v2.6.6</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 122k out of 62.3m repositories</span>
+                                    <span class="gh">ranked 122k out of 67m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 342 stars</div>
                             </div>
@@ -2091,7 +2091,7 @@ Update dependency xunit to v2.6.6</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2024, 01:48:13 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jan 2024, 07:14:44 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
