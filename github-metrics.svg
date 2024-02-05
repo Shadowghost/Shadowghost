@@ -1757,7 +1757,7 @@ Update Docusaurus to v3.1.1</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 120k out of 136m repositories</span>
+                                    <span class="gh">ranked 120k out of 123m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 351 stars</div>
                             </div>
@@ -2090,7 +2090,7 @@ Update Docusaurus to v3.1.1</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Feb 2024, 01:46:04 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 07:13:57 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
