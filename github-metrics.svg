@@ -1686,7 +1686,7 @@ Is the episode order correct on 10.8.13?</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.60m out of 131m users</span>
+                                    <span class="gh">ranked 2.60m out of 130m users</span>
                                 </div>
                                 <div class="text">Published 21 public repositories</div>
                             </div>
@@ -1765,7 +1765,7 @@ Is the episode order correct on 10.8.13?</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 120k out of 96.5m repositories</span>
+                                    <span class="gh">ranked 120k out of 87.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 353 stars</div>
                             </div>
@@ -1885,7 +1885,7 @@ Is the episode order correct on 10.8.13?</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 979k out of 131m users</span>
+                                    <span class="gh">ranked 979k out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2098,7 +2098,7 @@ Is the episode order correct on 10.8.13?</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2024, 01:43:45 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 07:14:16 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
