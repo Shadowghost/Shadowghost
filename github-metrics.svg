@@ -1897,7 +1897,7 @@ Don't retrieve tvdbId for episode if there is tvdbid already provided</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 776k out of 95.8m repositories</span>
+                                    <span class="gh">ranked 776k out of 91m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 35 stars</div>
                             </div>
@@ -2078,7 +2078,7 @@ Don't retrieve tvdbId for episode if there is tvdbid already provided</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2024, 01:50:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 07:12:53 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
