@@ -1904,7 +1904,7 @@ Yours appears because the changed replace logic always prefers NFOs - the 10.8 b
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 801k out of 210m repositories</span>
+                                    <span class="gh">ranked 801k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 35 stars</div>
                             </div>
@@ -2085,7 +2085,7 @@ Yours appears because the changed replace logic always prefers NFOs - the 10.8 b
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2024, 02:51:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2024, 08:15:57 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
