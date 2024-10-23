@@ -1922,7 +1922,7 @@ Apostrophes aren't actually used with plurals of abbreviations.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 838k out of 225m repositories</span>
+                                    <span class="gh">ranked 838k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 35 stars</div>
                             </div>
@@ -2103,7 +2103,7 @@ Apostrophes aren't actually used with plurals of abbreviations.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2024, 02:59:56 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2024, 08:19:22 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
